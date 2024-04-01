@@ -1,6 +1,6 @@
-# supavueapp
+# Supavueapp
 
-This template should help get you started developing with Vue 3 in Vite.
+Very simple login with authentication made with Vue 3 and Supabase
 
 ## Recommended IDE Setup
 
